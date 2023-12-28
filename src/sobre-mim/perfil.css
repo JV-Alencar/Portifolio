@@ -1,0 +1,12 @@
+.foto-perfil{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    border: 3px solid lime;
+    transition: all 0.7s cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+
+.foto-perfil:hover{
+    width: 220px;
+    height: 220px;
+}
